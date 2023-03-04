@@ -16,7 +16,7 @@ body {
   background-color: hsl(216, 50%, 16%);
 }
 .preview-card-image {
-  background-image: url("../nft-preview-card-component-main//images/image-equilibrium.jpg");
+  background-image: url("/nft-preview-card-component-main/images/image-equilibrium.jpg");
   height: 54%;
   width: 100%;
   background-size: cover;
